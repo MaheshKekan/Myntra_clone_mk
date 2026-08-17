@@ -293,28 +293,6 @@ This project was developed to practice and strengthen:
 
 ---
 
-## 🔮 Future Improvements
-
-The project can be extended with:
-
-- [ ] User authentication and login/signup
-- [ ] Product search
-- [ ] Category filtering
-- [ ] Sorting by price/rating
-- [ ] Wishlist functionality
-- [ ] Product details page
-- [ ] Quantity controls in Bag
-- [ ] Persistent Bag using localStorage
-- [ ] Checkout page
-- [ ] Address management
-- [ ] Payment gateway integration
-- [ ] Backend REST API
-- [ ] Database integration
-- [ ] User order history
-- [ ] Improved mobile responsiveness
-- [ ] Deployment with a live demo
-
----
 
 ## ⚠️ Current Limitations
 
